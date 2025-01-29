@@ -143,6 +143,8 @@ main{
 }
 .icon-details{
     margin-top: -20px;
+    font-size: 20px;
+    font-weight: 500;
 }
 /* sponsor styles */
 .our-sponsors{
